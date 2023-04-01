@@ -9,10 +9,7 @@ function addBook(book) {
     body: JSON.stringify(book),
   };
 
-  return fetch(`${BASE_URL}/books`, options)
-    .then(response => response.json())
-    .then(console.log)
-    .catch(e => console.log(e));
+  return fetch(`${BASE_URL}/books`, options).then(response => response.json());
 }
 
 addBook({

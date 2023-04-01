@@ -294,6 +294,42 @@
       ],
       "rating": 9,
       "id": 36
+    },
+    {
+      "title": "Test",
+      "author": "Alex",
+      "genres": [
+        "JS"
+      ],
+      "rating": 9,
+      "id": 37
+    },
+    {
+      "title": "Test2",
+      "author": "Tim",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 6,
+      "id": 38
+    },
+    {
+      "title": "Test",
+      "author": "Alex",
+      "genres": [
+        "JS"
+      ],
+      "rating": 9,
+      "id": 39
+    },
+    {
+      "title": "Test2",
+      "author": "Tim",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 6,
+      "id": 40
     }
   ],
   "users": []
